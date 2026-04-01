@@ -1,0 +1,14 @@
+{
+  "id": "roylxh5147/orggpt-simulation-pipeline",
+  "title": "OrgGPT: Simulation Pipeline",
+  "code_file": "run_org_gpt_pipeline.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": "true",
+  "enable_gpu": "false",
+  "enable_internet": "true",
+  "dataset_sources": [
+    "wcukierski/enron-email-dataset"
+  ],
+  "kernel_sources": []
+}

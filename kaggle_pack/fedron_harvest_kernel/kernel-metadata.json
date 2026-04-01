@@ -1,0 +1,17 @@
+{
+  "id": "xiaohualiu/orggpt-fedron-dpo-harvest",
+  "title": "orggpt-fedron-dpo-harvest",
+  "code_file": "kernel_main.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": "true",
+  "enable_gpu": "true",
+  "enable_tpu": "false",
+  "enable_internet": "true",
+  "dataset_sources": [
+    "wcukierski/enron-email-dataset"
+  ],
+  "competition_sources": [],
+  "kernel_sources": [],
+  "model_sources": []
+}
